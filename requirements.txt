@@ -1,1 +1,1 @@
-device-detector==0.9
+flask==1.1.1
